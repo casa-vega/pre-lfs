@@ -1,0 +1,2 @@
+# pre-lfs
+lfs example
